@@ -52,6 +52,13 @@
 [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)](#)
 
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)](#)
+[![JQuery](https://img.shields.io/badge/JQuery-000000?style=for-the-badge&logo=jquery)](#)
+
+#### Used at old
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)](#)
+[![TweenMax](https://img.shields.io/badge/TweenMax-000000?style=for-the-badge)](#)
+[![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge)](#)
+
 #### Used at least once
 [![STL](https://img.shields.io/badge/C++_STL-000000?style=for-the-badge)](#)
 
