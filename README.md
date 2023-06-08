@@ -16,12 +16,15 @@
 [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)](#)
 [![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)](#)
 
-[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=oracle)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)](#)
 
 #### Used at old
 [![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)](#)
 [![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)](#)
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)](#)
+
+[![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite)](#)
+[![Mongo db](https://img.shields.io/badge/Mongo_db-000000?style=for-the-badge&logo=mongodb)](#)
 
 #### Used at least once
 [![C#](https://img.shields.io/badge/C_Sharp-000000?style=for-the-badge&logo=csharp)](#)
@@ -37,16 +40,18 @@
 [![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular)](#)
 [![Vue](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs)](#)
 [![Nuxt](https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxtdotjs)](#)
-[![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react)](#)
 [![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring)](#)
+
+[![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react)](#)
 
 <br/>
 
 ### *Library*
 #### Used as the main
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)](#)
 [![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)](#)
+
+[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)](#)
 #### Used at least once
 [![STL](https://img.shields.io/badge/C++_STL-000000?style=for-the-badge)](#)
 
