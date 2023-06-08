@@ -78,5 +78,7 @@
 ![xd](https://img.shields.io/badge/xd-000000?style=for-the-badge&logo=adobexd)
 ![premierepro](https://img.shields.io/badge/premiere_pro-000000?style=for-the-badge&logo=adobepremierepro)
 
+<br/>
+
 ### *OS*
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows)
